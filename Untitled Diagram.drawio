@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T18:04:26.776Z" agent="5.0 (Windows)" etag="eZ_sqj5fUhBlG2PQFBNh" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-31T18:34:04.712Z" agent="5.0 (Windows)" etag="f_6xZQV2KWz6b0gZi7o9" version="14.7.3" type="github">
   <diagram id="Rs5rr94gxkLq2ADsWazX">
     <mxGraphModel dx="868" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LGhYlAQAkjIiNLw9V2kh-1" value="Kunden" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhYlAQAkjIiNLw9V2kh-2" value="macht" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="167.5" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhYlAQAkjIiNLw9V2kh-3" value="Reservierung" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhYlAQAkjIiNLw9V2kh-5" value="Vermietung" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="380" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhYlAQAkjIiNLw9V2kh-10" value="reserviert " style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="170" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhYlAQAkjIiNLw9V2kh-12" value="Auto" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
